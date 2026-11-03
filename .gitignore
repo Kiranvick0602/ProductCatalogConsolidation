@@ -1,0 +1,50 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment files
+.env
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary outputs / archives
+backup_stage2.zip
+*.zip
+# Generated product catalog data
+data/embeddings/
+data/output/
+
+# Fabric generated files
+**/.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/

@@ -1,0 +1,7 @@
+# ProductCatalogConsolidation Dependencies
+pandas==3.1.0
+numpy==2.5.4
+pyarrow==26.0.0
+requests==2.34.2
+python-dateutil==4.0.0
+pytest==9.0.3
